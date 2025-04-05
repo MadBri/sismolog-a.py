@@ -1,0 +1,1 @@
+# sismolog-a.py
